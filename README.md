@@ -1,5 +1,5 @@
 # 🕵️ Fraud Detection Project 📈💼
-![Alt text](CreditCardFraudPrev-M77/Resources/FDA1.png)
+![Alt text](CreditCardFraudPrev-M77/Resources/FDA1.png) 
 Welcome to the **Fraud Detection Project**! In this exciting project, we apply our fresh SQL skills and data analytics to analyze historical credit card transactions and consumption patterns to identify possible fraudulent transactions. Be ready to dive into the world of fraud detection! 👀💳
 
 ## 📌 Background
